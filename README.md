@@ -1,11 +1,14 @@
-
-### Hi👋, my name is Johan Nasendi
-#### Backend Developer 👨‍💻
 <a href="https://ibb.co/4WyNzgy"><img src="https://i.ibb.co/NxhY5nh/wonefilms-1629684253299-2.jpg" alt="wonefilms-1629684253299-2" border="0"></a>
+
+# Hi👋, my name is Johan Nasendi
+## Backend Developer 👨‍💻
 
 I'm Johan Nasendi from Indonesia, and i do Backend Developer. I really enjoy learning languages and frameworks like Laravel and Nest Js with TypeScript, and currently I'm doing an internship at PT. Media Kreasi Abadi.
 
-Skills: LARAVEL / NEST JS / REACT / JS /TYPESCRIPT/ HTML / CSS/ JAVA
+## Skills
+* ⚛️ React Js
+* 💻 LARAVEL & NEST JS
+* 💻 HTML / CSS / JAVASCRIPT / TYPESCRIPT
 
 
 
