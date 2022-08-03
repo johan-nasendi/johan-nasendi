@@ -20,7 +20,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm Johan Nasendi from Indonesia, and i do Backend Developer. I really enjoy learning languages and frameworks like Laravel and Nest Js with TypeScript, and currently I'm doing an internship at PT. Media Kreasi Abadi.
+I'm Johan Nasendi from Indonesia, and i do Backend Developer. I really enjoy learning languages and frameworks like Laravel and Nest Js with TypeScript.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
