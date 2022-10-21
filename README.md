@@ -35,6 +35,7 @@ I'm Johan Nasendi from Indonesia, and i do Backend Developer. I really enjoy lea
 
 ### :hammer_and_wrench: Framework Language  :
  <img src="https://i.ibb.co/bd6j45L/1200px-Laravel-svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/johan-nasendi/johan-nasendi/blob/main/vue%20js.png" title="VueJs" alt="VueJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
    
